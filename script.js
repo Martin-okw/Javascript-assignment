@@ -6,14 +6,14 @@ console.log(firstname)
 
 
 
-//**** Which value does “x” have after the execution of the following code?
+//**** Which value does “k” have after the execution of the following code?
 
 let k = 'Tic';
 k = 'Tac';
 k = 'Toe';
 console.log(k)
 
-// *****value of x after execution will be 'Toe"
+// *****value of k after execution will be 'Toe"
 
 
 
